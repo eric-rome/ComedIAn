@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "774011281121",
+    "project_id": "voltaic-sandbox-421315",
+    "storage_bucket": "voltaic-sandbox-421315.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774011281121:android:345a5cd9241eec9069a1a0",
+        "android_client_info": {
+          "package_name": "com.example.comedian"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774011281121-gb53qmpps5iaoa89at4aqm6p7oaor30l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.comedian",
+            "certificate_hash": "fb34507b0d6c9be696281ac382f9f1394819e228"
+          }
+        },
+        {
+          "client_id": "774011281121-5amj638fcdsr2o6dh6990fjbgp6hc01k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfba_t-SUP5XtgwDdvpzVpeWcQvsfG5Ps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774011281121-5amj638fcdsr2o6dh6990fjbgp6hc01k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

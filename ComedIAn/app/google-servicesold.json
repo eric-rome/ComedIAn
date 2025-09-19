@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "377184932406",
+    "project_id": "comedian-28366",
+    "storage_bucket": "comedian-28366.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377184932406:android:1addf83874894723783e97",
+        "android_client_info": {
+          "package_name": "com.example.comedian"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApYQw7fdlmliLlilcO1UJSlzv1aaWOa9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

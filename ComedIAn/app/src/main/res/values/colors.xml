@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="yellow">#ffc300</color>
+    <color name="background_color">#ae8507</color>
+    <color name="bottom_nav_item_pressed_color">#FF4081</color>
+
+</resources>
